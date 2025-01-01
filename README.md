@@ -12,6 +12,9 @@
   <a href="https://medium.com/@kongruksiam" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+    <a href="https://www.youtube.com/@KongRuksiamOfficial/store" target="_blank">
+    <img src="https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=Shopee&logoColor=white"/>
+  </a>
   <a href="https://codepen.io/kongruksiamstudio" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
